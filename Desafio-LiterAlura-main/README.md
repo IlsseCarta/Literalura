@@ -65,10 +65,4 @@ Desafio LiterAlura es una aplicación de (Consola) para gestionar información d
 - PostgreSQL Driver
 - Jackson-databind
 
-## 📧 Autor 
 
-- Claudio Machuca
-- claudio.a97@outlook.es
-- Formacion Java y Spring Boot G6 - ONE
-- Alura Latam
-- Oracle Next Education
